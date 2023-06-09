@@ -1,0 +1,5 @@
+from fonctionDuProjet import *
+
+aficher_histogramme_des_frequantation_par_lignes()
+aficher_frequentation_par_heures()
+aficher_camembert_des_frequantation_par_jours()
